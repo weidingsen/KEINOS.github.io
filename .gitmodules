@@ -1,0 +1,6 @@
+[submodule "themes/casper-two"]
+	path = themes/casper-two
+	url = https://github.com/eueung/hugo-casper-two.git
+[submodule "themes/mediumish"]
+	path = themes/mediumish
+	url = https://github.com/lgaida/mediumish-gohugo-theme
